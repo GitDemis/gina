@@ -1,0 +1,23 @@
+{
+  "name": "gina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitDemis/gina.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitDemis/gina/issues"
+  },
+  "homepage": "https://github.com/GitDemis/gina#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
